@@ -41,6 +41,14 @@ The project emphasizes:
 
 ---
 
+## 📸 Screenshot
+
+Below is a preview of the Calendar Project running in the console:
+
+![Calendar Project Preview](screenshot/calendar_preview.jpg)
+
+---
+
 ## ▶️ How to Run the Project
 
 Step 1: Navigate to the project directory  
